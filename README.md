@@ -3,14 +3,14 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently pursuing Masters in Computer Science at the University of Illinois at Chicago .\
-🔭 Graduate Assistant at Advanced Cyberinfrastructure For Education and Research - UIC
-📄 &nbsp;Please have a look at my [Resume](https://ramiyaseshaiah.netlify.app/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+🔭 &nbsp;Graduate Assistant at Advanced Cyberinfrastructure For Education and Research - UIC.\
+📄 &nbsp;Take a look at my [Resume](https://ramiyaseshaiah.netlify.app/resume.pdf) for more details. I'm open to feedback and suggestions!
 
 
-🌱 &nbsp;I am interested in exploring the fields of Software Engineering and I am open to opportunities for the same. \
+🌱 &nbsp;I am interested in exploring fields of Software Engineering and I am open to opportunities for the same. \
 💡 &nbsp; I am a person with spirit and dedication to learn new technology and find cognitive solutions to solve a real-time problem. \
 
-### 📣 :mega:	I am actively looking for a Summer 2022 intern position as a Software Engineer anywhere in the US.
+### 📣 &nbsp;	I am actively looking for a Summer 2022 intern position as a Software Engineer anywhere in the US.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,7 +20,7 @@
 ### ⚙️ &nbsp; Easy Access to my github repos
 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=RamiyaSeshaiah-Portfolio)](https://github.com/Ramiyashree/RamiyaSeshaiah-Portfolio) [![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=WebApps)](https://github.com/Ramiyashree/WebApps) [![Android Apps](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=AndroidApps)](https://github.com/Ramiyashree/AndroidApps)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=RamiyaSeshaiah-Portfolio)](https://github.com/Ramiyashree/RamiyaSeshaiah-Portfolio) [![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=WebApps)](https://github.com/Ramiyashree/WebApps)[![Android Apps](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=AndroidApps)](https://github.com/Ramiyashree/AndroidApps)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
