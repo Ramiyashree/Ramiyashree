@@ -19,8 +19,7 @@
  
 ### ⚙️ &nbsp; My github repos
 
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=RamiyaSeshaiah-Portfolio)](https://github.com/Ramiyashree/RamiyaSeshaiah-Portfolio) [![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=WebApps)](https://github.com/Ramiyashree/WebApps)[![Android Apps](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=AndroidApps)](https://github.com/Ramiyashree/AndroidApps)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=WebApps)](https://github.com/Ramiyashree/WebApps)[![Android Apps](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=AndroidApps)](https://github.com/Ramiyashree/AndroidApps)[![](https://github-readme-stats.vercel.app/api/pin/?username=ramiyashree&repo=RamiyaSeshaiah-Portfolio)](https://github.com/Ramiyashree/RamiyaSeshaiah-Portfolio)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
