@@ -4,7 +4,7 @@
 
 🎓 &nbsp;I'm currently pursuing Masters in Computer Science at the University of Illinois at Chicago .\
 🔭 &nbsp;Graduate Assistant at Advanced Cyberinfrastructure For Education and Research - UIC.\
-📄 &nbsp;Take a look at my [Resume](https://ramiyaseshaiah.netlify.app/resume.pdf) for more details. I'm open to feedback and suggestions!
+📄 &nbsp;Take a look at my [Resume](https://ramiyaseshaiah.netlify.app/RamiyaShreeSeshaiah_Resume.pdf) for more details. I'm open to feedback and suggestions!
 
 
 🌱 &nbsp;I am interested in exploring fields of Software Engineering and open to opportunities for the same. \
