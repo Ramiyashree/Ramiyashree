@@ -3,14 +3,15 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently pursuing Masters in Computer Science at the University of Illinois at Chicago .\
+<img src="https://img.shields.io/badge/-Ramiya%20Shree%20Seshaiah-0077B5?style=flat&logo=Linkedin&logoColor=white"/> &nbsp;Mobile Engineer Intern at Linkedin .\
 🔭 &nbsp;Graduate Assistant at Advanced Cyberinfrastructure For Education and Research - UIC.\
-📄 &nbsp;Take a look at my [Resume](https://www.ramiyaseshaiah.com/RamiyaShreeSeshaiahResume.pdf) for more details. I'm open to feedback and suggestions!
+📄 &nbsp;Take a look at my [Resume](https://www.ramiyaseshaiah.com/RamiyaShreeSeshaiahResume.pdf) for more details. 
 
 
 🌱 &nbsp;I am interested in exploring fields of Software Engineering and open to opportunities for the same. \
 💡 &nbsp; I am a person with spirit and dedication to learn new technology and find cognitive solutions to solve a real-time problem. \
 
-### 📣 &nbsp;	I am actively seeking for a Summer 2022 intern position as a Software Engineer anywhere in the US.
+### 📣 &nbsp;	I am actively seeking for Software Engineer position starting Jan'23 anywhere in the US.
 
 ### 🛠 &nbsp;Tech Stack
 
