@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently pursuing Masters in Computer Science at the University of Illinois at Chicago .\
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white  &nbsp;Mobile Engineer Intern - Android at Linkedin.\
 🔭 &nbsp;Graduate Assistant at Advanced Cyberinfrastructure For Education and Research - UIC.\
 📄 &nbsp;Take a look at my [Resume](https://www.ramiyaseshaiah.com/RamiyaShreeSeshaiahResume.pdf) for more details. I'm open to feedback and suggestions!
 
