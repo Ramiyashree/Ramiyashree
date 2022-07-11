@@ -2,11 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> Mobile Engineer Intern - Android at Linkedin
-
-<a href=”https://www.linkedin.com/in/ramiyashree/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-
-<i class="fa-brands fa-linkedin"></i>
+ Mobile Engineer Intern - Android @ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 🎓 &nbsp;I'm pursuing Masters in Computer Science at the University of Illinois at Chicago .\
 🔭 &nbsp;Graduate Assistant at Advanced Cyberinfrastructure For Education and Research - UIC.\
