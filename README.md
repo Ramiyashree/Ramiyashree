@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> Mobile Engineer Intern - Android at Linkedin.
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><h1> Mobile Engineer Intern - Android at Linkedin.<h1>
 
 🎓 &nbsp;I'm pursuing Masters in Computer Science at the University of Illinois at Chicago .\
 🔭 &nbsp;Graduate Assistant at Advanced Cyberinfrastructure For Education and Research - UIC.\
