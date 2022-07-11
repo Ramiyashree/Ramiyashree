@@ -4,6 +4,8 @@
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> Mobile Engineer Intern - Android at Linkedin
 
+<a href=”https://www.linkedin.com/in/ramiyashree/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 <i class="fa-brands fa-linkedin"></i>
 
 🎓 &nbsp;I'm pursuing Masters in Computer Science at the University of Illinois at Chicago .\
